@@ -1,6 +1,4 @@
-package Characters;
-
-public class Player extends Health{
+public class Player extends Health {
 
     private String playerName;
     private String playerModel;

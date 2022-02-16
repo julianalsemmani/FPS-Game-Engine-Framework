@@ -1,6 +1,4 @@
-package Characters;
-
-public class Enemy {
+public class Enemy extends Health {
     private String enemyName;
     private int damage;
 

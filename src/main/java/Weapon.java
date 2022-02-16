@@ -1,5 +1,3 @@
-package Assets;
-
 public class Weapon {
     private String weaponName;
     private float weaponDamage;

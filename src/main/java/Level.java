@@ -1,5 +1,3 @@
-package Scene;
-
 public class Level {
 
     private String levelName;

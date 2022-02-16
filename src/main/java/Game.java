@@ -1,5 +1,3 @@
-package Scene;
-
 public class Game {
 
     private String gameTitle;
